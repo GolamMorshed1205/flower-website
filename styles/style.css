@@ -132,9 +132,11 @@ body {
 .icon-details {
     text-align: center;
 }
+
 .service-content {
     padding: 20px;
 }
+
 .hot-deal {
     display: flex;
     width: 100%;
@@ -142,17 +144,38 @@ body {
     border-radius: 8px;
     background: rgba(229, 84, 115, 0.05);
 }
+
 .deal-content {
     width: 50%;
     text-align: center;
     padding: 50px 20px 50px 150px;
 }
+
 .deal-flower {
     size: 50px;
 }
+
 .instagram-photo {
-height: 270px;
-gap: 30px;}
+    height: 270px;
+    gap: 30px;
+}
+
 .instagram {
     margin: 50px 0px;
+}
+
+.prefooter {
+    text-align: center;
+    padding: 50px 200px;
+    background-image: url(../media/images/Rectangle\ 9.png);
+    background-size: cover;
+    margin: 20px 150px 30px;
+}
+
+#subscribe {
+    width: 100px;
+    height: 25px;
+    border-radius: 8px;
+    background: #E55473;
+    border: none;
 }
