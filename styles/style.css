@@ -1,5 +1,6 @@
 body {
-    font-family: 'Open Sans', sans-serif;}
+    font-family: 'Open Sans', sans-serif;
+}
 
 .banner {
     background-color: #E554731A;
@@ -26,20 +27,86 @@ body {
 .banner .banner-flower {
     padding: 10px 100px 0px 0px
 }
+
 .footer-content {
     background-color: #111010;
     text-align: center;
     color: #FFFFFF;
     padding: 20px;
 }
+
 .flower {
     color: #E55473;
 }
+
 .footer para {
     color: #FFFFFFE5;
     font-size: 18px;
 }
+
 .copyright {
     color: #FFFFFF66;
     font-size: 16px;
+}
+
+.featured {
+    text-align: center;
+}
+
+.section-head {
+    font-size: 40px;
+}
+
+.description {
+    font-size: 18px;
+    font-weight: 400;
+}
+
+.category {
+    display: flex;
+    gap: 10px;
+    margin: 10px 300px;
+}
+
+.pink-flower {
+    width: 300px;
+    height: 300px;
+    border-radius: 300px 300px 0px 0px;
+    background: rgba(167, 33, 98, 0.15);
+    position: relative;
+}
+.pink-image {
+    width: 150px;
+    height: 250px;
+    position: absolute;
+    top: 50px;
+    right: 25px
+}
+.red-flower {
+    width: 300px;
+    height: 300px;
+    border-radius: 300px 300px 0px 0px;
+    background: rgba(167, 33, 98, 0.15);
+    position: relative;
+}
+.red-image {
+    width: 150px;
+    height: 250px;
+    position: absolute;
+    top: 50px;
+    right: 25px
+}
+.yellow-flower {
+    width: 300px;
+    height: 300px;
+    border-radius: 300px 300px 0px 0px;
+    background: rgba(167, 33, 98, 0.15);
+    position: relative;
+}
+.yellow-image {
+    width: 150px;
+    height: 250px;
+    position: absolute;
+    top: 50px;
+    right: 25px
 }
