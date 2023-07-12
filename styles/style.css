@@ -10,12 +10,12 @@ body {
 
 .banner-content {
     width: 50%;
-    padding: 60px
+    padding: 20px 60px 80px 60px
 }
 
 .button {
     background-color: #E55473;
-    padding: 20px 43px;
+    padding: 15px 30px;
     border: 0px;
     border-radius: 8px;
     color: #FFF;
@@ -28,25 +28,8 @@ body {
     padding: 10px 100px 0px 0px
 }
 
-.footer-content {
-    background-color: #111010;
-    text-align: center;
-    color: #FFFFFF;
-    padding: 20px;
-}
-
 .flower {
     color: #E55473;
-}
-
-.footer-details {
-    color: #FFFFFFE5;
-    font-size: 18px;
-}
-
-.copyright {
-    color: #FFFFFF66;
-    font-size: 16px;
 }
 
 .featured {
@@ -60,6 +43,7 @@ body {
 .description {
     font-size: 18px;
     font-weight: 400;
+    margin: -20px 10px 50px 10px;
 }
 
 .category {
@@ -118,7 +102,7 @@ body {
 
 .service {
     display: flex;
-    margin: 30px 150px;
+    margin: 50px 150px;
     width: 950px;
     height: 200px;
     border-radius: 8px;
@@ -178,4 +162,21 @@ body {
     border-radius: 8px;
     background: #E55473;
     border: none;
+}
+
+.footer-content {
+    background-color: #111010;
+    text-align: center;
+    color: #FFFFFF;
+    padding: 20px;
+}
+
+.footer-details {
+    color: #FFFFFFE5;
+    font-size: 18px;
+}
+
+.copyright {
+    color: #FFFFFF66;
+    font-size: 16px;
 }
